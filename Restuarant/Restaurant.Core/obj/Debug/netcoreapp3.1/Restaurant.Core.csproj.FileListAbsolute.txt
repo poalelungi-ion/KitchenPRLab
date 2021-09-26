@@ -1,0 +1,13 @@
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\bin\Debug\netcoreapp3.1\Restaurant.Core.deps.json
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\bin\Debug\netcoreapp3.1\Restaurant.Core.dll
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\bin\Debug\netcoreapp3.1\Restaurant.Core.pdb
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\obj\Debug\netcoreapp3.1\Restaurant.Core.csproj.AssemblyReference.cache
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\obj\Debug\netcoreapp3.1\Restaurant.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\obj\Debug\netcoreapp3.1\Restaurant.Core.AssemblyInfoInputs.cache
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\obj\Debug\netcoreapp3.1\Restaurant.Core.AssemblyInfo.cs
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\obj\Debug\netcoreapp3.1\Restaurant.Core.csproj.CoreCompileInputs.cache
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\obj\Debug\netcoreapp3.1\Restaurant.Core.dll
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\obj\Debug\netcoreapp3.1\Restaurant.Core.pdb
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\bin\Debug\netcoreapp3.1\Restaurant.Core.runtimeconfig.json
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\bin\Debug\netcoreapp3.1\Restaurant.Core.runtimeconfig.dev.json
+C:\Users\ionut\source\repos\Restuarant\Restaurant.Core\obj\Debug\netcoreapp3.1\Restaurant.Core.genruntimeconfig.cache
